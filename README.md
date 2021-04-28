@@ -99,6 +99,6 @@
 - **Sales & Marketing Executive**, Culture Whisper (_January 2019 - January 2020_)
 - **Sales Specialist**, BUNAC/STA Travel (_June 2017 - January 2019_)
 
-📝 You can find my full ![CV](https://github.com/rhc07/CV) here!
+📝 You can find my full CV [here](https://github.com/rhc07/CV)!
 
 

@@ -7,13 +7,13 @@
 - 👉🏾 Check out my [GitHub repos](url) to see what I've been working on <br />
 
 
-- 💬 Ask me about anything
+- 💬 Ask me about **anything**
 
 
 - 📫 Feel free to email me: [rorieclarke@gmail.com](url)
 
 
-- ⚡ Fun fact: I am a PADI qualified Specialty Diver 
+- ⚡ Fun fact: I am a **PADI qualified** Specialty Diver 
 
 <br />
 <br />

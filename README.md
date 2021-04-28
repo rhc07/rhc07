@@ -13,7 +13,7 @@
 - 📫 Feel free to email me: [rorieclarke@gmail.com](url)
 
 
-- ⚡ Fun fact: A qualified PADI & Specialty Diver 
+- ⚡ Fun fact: I am a PADI qualified Specialty Diver 
 
 <br />
 <br />

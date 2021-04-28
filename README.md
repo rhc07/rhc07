@@ -92,4 +92,13 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rhc07&theme=highcontrast&show_icons=true&count_private=true)
 
+### Previous Places of Work:
+
+- **Software Engineering Graduate**, Makers Academy (_January 2021 - April 2021_)
+- **Junior Community Manager**, Social Misfits Media (_January 2020 - November 2020_)
+- **Sales & Marketing Executive**, Culture Whisper (_January 2019 - January 2020_)
+- **Sales Specialist**, BUNAC/STA Travel (_June 2017 - January 2019_)
+
+📝 You can find my full ![CV](https://github.com/rhc07/CV) here!
+
 

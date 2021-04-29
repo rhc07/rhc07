@@ -94,7 +94,7 @@
 ### 👨🏾‍💻 Projects I have worked on:
 
 - **Bank Tech Test** ([Repo](https://github.com/rhc07/bank-tech-test)) - Mocks the basic functionalities of a bank account. Built in Ruby.
-- **Thermostat** ([Repo](https://github.com/rhc07/thermostat.js) - A simple thermostat app that uses an API to display the current weather conditions around the world. Built using JS & JQuery.
+- **Thermostat** ([Repo](https://github.com/rhc07/thermostat.js)) - A simple thermostat app that uses an API to display the current weather conditions around the world. Built using JS & JQuery.
 - **Cookwars** ([Backend](https://github.com/joneslee111/final-project-backend) & [Frontend](https://github.com/raf-swiderski/final-project-frontend)) - A gaming app that teaches you to cook by gaining points and levelling up. Built using React, Node.js, Express & PostgreSQL.
 
 

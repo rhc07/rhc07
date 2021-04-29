@@ -13,8 +13,7 @@
 - 📫 Feel free to email me: [rorieclarke@gmail.com](mailto:rorieclarke@gmail.com)
 
 
-- ⚡ Fun fact: I am a **PADI qualified** Specialty Diver 
-
+- ⚡ Fun fact: I am a **PADI qualified** Specialty Diver    
 <br />
 <br />
 
@@ -88,11 +87,18 @@
 <br />
 <br />
 
-## Github Stats:
+## 📊 Github Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rhc07&theme=highcontrast&show_icons=true&count_private=true)
 
-### Previous Places of Work:
+### 👨🏾‍💻 Projects I have worked on:
+
+- **Bank Tech Test** ([Repo](url)) - Mocks the basic functionalities of a bank account. Built in Ruby.
+- **Thermostat** ([Repo](url)) - A simple thermostat app that uses an API to display the current weather conditions around the world. Built using JS & JQuery.
+- **Cookwars** ([Backend](url) & [Frontend](url)) - A gaming app that teaches you to cook by gaining points and levelling up. Built using React, Node.js, Express & PostgreSQL.
+
+
+### 💡 Previous Places of Work:
 
 - **Software Engineering Graduate**, Makers Academy (_January 2021 - April 2021_)
 - **Junior Community Manager**, Social Misfits Media (_January 2020 - November 2020_)

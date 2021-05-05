@@ -10,7 +10,7 @@
 - 💬 Ask me about **anything**
 
 
-- 📫 Feel free to email me: [rorieclarke@gmail.com](mailto:rorieclarke@gmail.com)
+- 📫 Feel free to email me [here](mailto:rorieclarke@gmail.com)
 
 
 - ⚡ Fun fact: I am a **PADI qualified** Specialty Diver    

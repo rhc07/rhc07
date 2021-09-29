@@ -4,7 +4,7 @@
 
 
 
-- 👉🏾 Check out my [GitHub repos](url) to see what I've been working on <br />
+- 👉🏾 Check out my [GitHub repos](https://github.com/rhc07?tab=repositories) to see what I've been working on <br />
 
 
 - 💬 Ask me about **anything**

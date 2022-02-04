@@ -104,6 +104,7 @@
 
 ### 💡 Previous Places of Work:
 
+- **Associate Software Engineer**, Ori Industries (_June 2021 - Present_)
 - **Software Engineering Graduate**, Makers Academy (_January 2021 - April 2021_)
 - **Junior Community Manager**, Social Misfits Media (_January 2020 - November 2020_)
 - **Sales & Marketing Executive**, Culture Whisper (_January 2019 - January 2020_)

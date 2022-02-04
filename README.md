@@ -36,6 +36,10 @@
 
 **Languages and Tools:**
 
+<a href=https://go.dev///>
+  <img alt="go" height="40" src="https://pbs.twimg.com/profile_images/554798224154701824/mWd3laxO_400x400.png"/>
+</a>
+
 <a href="https://www.javascript.com/">
   <img alt="Javascript" height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"/>
 </a>
@@ -72,12 +76,12 @@
   <img alt="Jasmine" height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png"/>
 </a>
 
-<a href=https://rspec.info//>
+<a href=https://rspec.info/>
   <img alt="rspec" height="40" src="https://rspec.info/images/logo_ogp.png"/>
 </a>
 
-<a href=http://sinatrarb.com/>
-  <img alt="sinatra" height="40" src="https://upload.wikimedia.org/wikipedia/en/2/2c/Sinatralogo.png"/>
+<a href=https://www.typescriptlang.org/>
+  <img alt="typescript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
 </a>
 
 <a href=https://www.w3schools.com/html//>

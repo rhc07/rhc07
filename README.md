@@ -20,7 +20,7 @@
 **Connect with me:**
 
 <a href=https://www.linkedin.com/in/rorieclarke>
-  <img alt="LinkedIn" height="40" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+  <img alt="LinkedIn" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>
 </a>
 
 <a href=https://twitter.com/clarke_rorie>

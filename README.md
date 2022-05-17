@@ -93,7 +93,7 @@
 
 ## 📊 Github Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rhc07&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rhc07&show_icons=true&theme=tokyonight)
 
 ### 👨🏾‍💻 Projects I have worked on:
 

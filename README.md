@@ -97,7 +97,7 @@
 
 ### 👨🏾‍💻 Projects I have worked on:
 
-- **Web Crawler** ([Repo](https://github.com/rhc07/bank-tech-test)) - Crawls any given webpage for any links. Built using Golang.
+- **Web Crawler** ([Repo](https://github.com/rhc07/web-crawler)) - Crawls any given webpage for any links. Built using Golang.
 - **Restaurant Finder** ([Repo](https://github.com/rhc07/just-eat-api)) - A simple application that uses the Just Eat Public API to display the restaurants in your area. Built using Go and Vanilla Javascript.
 - **Cookwars** ([Backend](https://github.com/joneslee111/final-project-backend) & [Frontend](https://github.com/raf-swiderski/final-project-frontend)) - A gaming app that teaches you to cook by gaining points and levelling up. Built using React, Node.js, Express & PostgreSQL.
 - **Bank Tech Test** ([Repo](https://github.com/rhc07/bank-tech-test)) - Mocks the basic functionalities of a bank account. Built in Ruby.

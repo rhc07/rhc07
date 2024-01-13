@@ -97,14 +97,16 @@
 
 ### 👨🏾‍💻 Projects I have worked on:
 
-- **Bank Tech Test** ([Repo](https://github.com/rhc07/bank-tech-test)) - Mocks the basic functionalities of a bank account. Built in Ruby.
+- **Web Crawler** ([Repo](https://github.com/rhc07/bank-tech-test)) - Crawls any given webpage for any links. Built using Golang.
 - **Restaurant Finder** ([Repo](https://github.com/rhc07/just-eat-api)) - A simple application that uses the Just Eat Public API to display the restaurants in your area. Built using Go and Vanilla Javascript.
 - **Cookwars** ([Backend](https://github.com/joneslee111/final-project-backend) & [Frontend](https://github.com/raf-swiderski/final-project-frontend)) - A gaming app that teaches you to cook by gaining points and levelling up. Built using React, Node.js, Express & PostgreSQL.
+- **Bank Tech Test** ([Repo](https://github.com/rhc07/bank-tech-test)) - Mocks the basic functionalities of a bank account. Built in Ruby.
 
 
 ### 💡 Previous Places of Work:
 
-- **Associate Software Engineer**, Ori Industries (_June 2021 - Present_)
+- **Software Engineer**, Laced Europe Ltd (_July 2022 - Present_)
+- **Associate Software Engineer**, Ori Industries (_June 2021 - July 2022_)
 - **Software Engineering Graduate**, Makers Academy (_January 2021 - April 2021_)
 - **Junior Community Manager**, Social Misfits Media (_January 2020 - November 2020_)
 - **Sales & Marketing Executive**, Culture Whisper (_January 2019 - January 2020_)
